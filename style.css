@@ -187,6 +187,23 @@ footer a:hover {
 
 .news-text {
   position: absolute;
-  padding-top: 380px;
+  padding-top: 70%;
   padding-left: 20px;
 }
+
+.thick-hr {
+  border-top: 2px solid #b4b4b4;
+  width: 95%;
+  margin-top: .3rem;
+  margin-bottom: 1rem;
+}
+
+
+
+/* .avatar-steve {
+  background-image: url("img/profile/default-avatar.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 50vh;
+} */
