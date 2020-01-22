@@ -2,8 +2,8 @@
 
 /* Core Styles */
 body, html {
-    height: 100%;
-    width: 100%;
+    width: auto!important;
+    overflow-x: hidden!important;
     margin: 0;
     font-family: 'Poppins', sans-serif;
     color: 222;
@@ -187,7 +187,7 @@ footer a:hover {
 
 .news-text {
   position: absolute;
-  padding-top: 70%;
+  padding-top: 85%;
   padding-left: 20px;
 }
 
