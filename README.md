@@ -1,6 +1,7 @@
 # blackhammer
 https://stevehudgson3.github.io/blackhammer/
 
+## things to work on
 
 colors <br/>
 have a better color scheme
