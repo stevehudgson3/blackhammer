@@ -1,5 +1,5 @@
 # blackhammer
-https://stevehudgson3.github.io/blackhammer/
+[https://stevehudgson3.github.io/blackhammer/](http://black-hammer.s3-website-us-east-1.amazonaws.com)
 
 ## things to work on
 
